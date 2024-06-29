@@ -1,0 +1,192 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px solid rgb(183, 178, 178);
+}
+#child1{
+    display: flex;
+    width: 100%;
+    background-color: green;
+}
+.parentchild2{
+    display: flex;
+    width: 100%;
+}
+ul{
+    display: flex;
+    margin: 5px;
+    font-size: large;
+}
+.child2{
+    width: 740px;
+    
+}
+li{
+    padding: 20px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+select{
+    color: white;
+    background-color: green;
+}
+.parentchild3{
+    display: flex;
+    width: 100%;
+    height: 250px;
+}
+.training{
+    width: 33.3%;
+    padding: 4px;
+    background-image: url(./abs1.7ba9658.jpg);
+}
+.placement{
+    width: 33.3%;
+    padding: 4px;
+}
+.head1{
+    color: white;
+}
+.pre{
+    text-align: left;
+    height: 160px;
+    color: white;
+}
+.header1{
+    text-align: center;
+    color: rgb(246, 246, 19);
+    font-size: large;
+    background-color: green;
+} 
+.number1{
+    border-left: 2px solid rgb(92, 91, 91);
+    border-right: 2px solid  rgb(92, 91, 91);
+    border-radius: 5px;
+    background-color: rgb(216, 210, 210);
+    height: 30px;
+}
+.placed{
+    width: 33.3%;
+    padding: 4px;
+    text-align: center;
+    font-size: large;
+}
+.boxcolor{
+    color: white;
+    background-color: rgb(60, 58, 58);
+    text-align: center;
+    
+}
+.degree{
+    color: white;
+    background-color: orange;
+    font-size: large;
+}
+.year{
+    color: white;
+    background-color: rgb(75, 75, 108);
+    font-size: large;
+}
+.bold{
+    color: white;
+    background-color:  rgb(75, 75, 108);
+    font-size: large;
+}
+.header4{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.child5{
+    margin: 10px;
+    background-color: forestgreen;
+    color: white;
+}
+.child6{
+    height: 60px;
+    margin: 10px;
+    padding: 1px;
+    position: relative;
+    bottom: 10px;
+}
+.parentchild5{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.child7{
+    text-align: center;
+    width: 100%;
+    margin-left: 100px;
+    background-color: rgb(38, 154, 38);
+}
+.child8{
+    margin-left: 250px;
+    text-align: center;
+    font-size: 15px;
+}
+.parent{
+    text-align: center;
+}
+.child9{
+    border: 2px solid rgb(120, 117, 117);
+    color:white;
+    background-color: rgb(162, 144, 144);
+}
+.java{
+    background-color: orange;
+    font-size: large;
+}
+.python{
+    background-color: rgb(155, 151, 151);
+    font-size: large;
+}
+.parentchild7{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.boxmodel{
+    width: 33.3%;
+    height: 150px;
+}
+.javafull{
+    background-color: green;
+    color: white;
+}
+.black{
+    background-color: rgb(173, 166, 166);
+    color: white;
+}
+.orange{
+    background-color: orangered;
+    color: white;
+}
+.parentchild8{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.boxmode2{
+    width: 33.3%;
+    height: 180px;
+}
+.javafull2{
+    background-color: green;
+    color: white;
+}
+.black{
+    background-color: rgb(173, 166, 166);
+    color: white;
+}
+.orange{
+    background-color: orangered;
+    color: white;
+
+
+
+

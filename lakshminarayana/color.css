@@ -1,0 +1,25 @@
+/* *{
+    margin: 1px;
+    padding: 1px;
+}
+.child{
+    border: 2px solid black;
+    display: flex;
+}
+.nav1{
+    border: 2px solid black;
+    display: flex;
+
+
+} */
+#check{
+    
+    
+    border-top: 2px solid;
+    border-bottom: 3px dotted red;
+    border-left: 2px groove blue;
+    border-right: 2px solid blue;
+    padding: 1;
+    margin:  100%;
+    
+}
